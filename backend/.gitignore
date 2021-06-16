@@ -1,2 +1,3 @@
 .idea/
 Zapo.API/appsettings.json
+Zapo.API/appsettings.Development.json
