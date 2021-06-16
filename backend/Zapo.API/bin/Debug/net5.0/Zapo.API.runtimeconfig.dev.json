@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/home/bomjyk/.dotnet/store/|arch|/|tfm|",
-      "/home/bomjyk/.nuget/packages"
-    ]
-  }
-}
