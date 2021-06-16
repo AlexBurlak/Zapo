@@ -1,0 +1,12 @@
+/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/bin/Debug/net5.0/Zapo.Domain.deps.json
+/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/bin/Debug/net5.0/Zapo.Domain.dll
+/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/bin/Debug/net5.0/ref/Zapo.Domain.dll
+/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/bin/Debug/net5.0/Zapo.Domain.pdb
+/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/obj/Debug/net5.0/Zapo.Domain.csproj.AssemblyReference.cache
+/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/obj/Debug/net5.0/Zapo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/obj/Debug/net5.0/Zapo.Domain.AssemblyInfoInputs.cache
+/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/obj/Debug/net5.0/Zapo.Domain.AssemblyInfo.cs
+/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/obj/Debug/net5.0/Zapo.Domain.csproj.CoreCompileInputs.cache
+/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/obj/Debug/net5.0/Zapo.Domain.dll
+/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/obj/Debug/net5.0/ref/Zapo.Domain.dll
+/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/obj/Debug/net5.0/Zapo.Domain.pdb
