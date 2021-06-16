@@ -11,6 +11,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.SqlServer;
+using Zapo.Application.Common.Interfaces;
+using Zapo.Infrastructure.Data;
 
 namespace Zapo.API
 {
@@ -28,6 +32,11 @@ namespace Zapo.API
         {
             services.AddControllers();
             services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new OpenApiInfo {Title = "Zapo.API", Version = "v1"}); });
+            services.AddDbContext<IApplicationDbContext, ApplicationDbContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("MSSQL"),
+                    b=> b.MigrationsAssembly("Zapo.API"));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

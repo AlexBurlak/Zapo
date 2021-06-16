@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2MPEEZ9REAYLnezjaBwlp+pP7ZGOEz4oWJ2jTsnUaGLhep1ybQ8qZyISRxcqG3rrOngR+43tiANPjSInn7O45A==",
+  "dgSpecHash": "l31k3svlSNURx3MdmjpsOHBdu+iuPi+lDuQTsJxWpdGSCX+9qXwbg+psK7TK4bIWS5LlI/BhSQWBDfDnxMhnWg==",
   "success": true,
   "projectFilePath": "/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Domain/Zapo.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/bomjyk/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/bomjyk/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

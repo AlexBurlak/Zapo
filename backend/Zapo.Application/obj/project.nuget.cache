@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "I7wFx3ZZcY7/jyS38vEPL1sgpQqESpOSQvTAGHExA0wQwkjyTNfW7stD6Xa9hUjs63RK4UlCbt2mcPJLICXH8w==",
+  "dgSpecHash": "4SbY8O3yT+ZEBRL+/9ctJ5u5K4mrnclWxhKUdxZAOVvQs+XHvmoTXBweJ/36wQ5nne4kjP6QW0IPVLuk5Huf6g==",
   "success": true,
   "projectFilePath": "/home/bomjyk/Projects/Current/Zapo/backend/Zapo.Application/Zapo.Application.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,9 @@
     "/home/bomjyk/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/home/bomjyk/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/home/bomjyk/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
-    "/home/bomjyk/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+    "/home/bomjyk/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "/home/bomjyk/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/bomjyk/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
